@@ -1,7 +1,7 @@
 # Py_3_RGPP
-Udemi: 100 Days of Code - The Complete Python Pro Bootcamp
+- Udemi: 100 Days of Code - The Complete Python Pro Bootcamp
 
-Throughout this comprehensive course, we cover tools and technologies, including:
+- Throughout this comprehensive course, we cover tools and technologies, including:
 Python 3 - the latest version of Python
 PyCharm, Jupyter Notebook, Google Colab
 Python Scripting and Automation
@@ -41,7 +41,7 @@ Deployment with GitHub Pages, Heroku and GUnicorn
 
 
 
-Portfolio of 100 projects, including:
+- Portfolio of 100 projects, including:
 Blackjack
 Snake Game
 Pong Game
